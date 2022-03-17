@@ -1,0 +1,21 @@
+Math 함수== ceil 올림, round 반올림 floor 내림 sqrt 제곱근 등
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>출력결과</title>
+    </head>
+    <body>
+        <script>
+            function solution(n)
+            {
+                let answer=Math.ceil(n/12);
+                
+                return answer;
+            }
+            console.log(solution(178));
+            
+        </script>
+    </body>
+</html>
+
