@@ -1,3 +1,5 @@
+min 값 초기화를 할때에는 Number.max_SAFE_INTEGER 로 선언하여 INTEGER형 가장 큰값으로 선언 해준다.
+
 <html>
     <head>
         <meta charset="UTF-8">
